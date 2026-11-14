@@ -2,32 +2,40 @@
 
 ### Aspiring Software Developer
 
-## About
+Electrical and Electronics Engineering graduate passionate about software development and building practical web applications.
 
-Electrical and Electronics Engineering graduate with a strong interest in Software Development.
+- 💻 Interested in developing responsive and user-friendly applications.
+- 🌱 Continuously improving my frontend, programming, and database skills.
+- 🤖 Exploring AI tools and their applications in software development.
+- 🎯 Looking for entry-level Software Developer opportunities.
 
-- Interested in building responsive and user-friendly web applications.
-- Learning and improving frontend and backend development skills.
-- Passionate about problem-solving and exploring new technologies.
-- Open to entry-level Software Developer opportunities.
+### 🛠️ Technical Skills
 
-## Technical Skills
-
-- **Programming:** JavaScript, Python
-- **Frontend:** HTML5, CSS3, React.js
+- **Programming Languages:** JavaScript, Python
+- **Frontend Development:** HTML5, CSS3, React.js
 - **Database:** SQL
 - **Tools:** Git, GitHub, VS Code
+- **AI Tools:** ChatGPT, Claude, Google Gemini, Google AI Studio
 
-## Projects
+### 🚀 Projects
 
 | Project | Description | Link |
 |---|---|---|
-| Travel Trip | Responsive travel website built with React.js | [Live Demo](https://chandini-travel-trip.netlify.app) |
+| CareGuide | AI-powered Healthcare FAQ Assistant | [GitHub](https://github.com/seelamchandini-2309/CareGuide-AI-Healthcare-FAQ-Assistant) |
+| Travel Trip | Responsive travel website built with React.js | [Live Demo](https://chandini-travel-trip.netlify.app/) |
 | Food Munch | Food ordering website | [GitHub](https://github.com/seelamchandini-2309/Food-Munch) |
 | Learning Management System | Responsive LMS website | [GitHub](https://github.com/seelamchandini-2309/Learning-Management-System) |
-| Support Ticket System | Full-stack ticket management application | [Live Demo](https://support-ticket-system-kappa.vercel.app/login) |
+
+### 🎓 Education
+
+**B.Tech – Electrical and Electronics Engineering**
 
 ## Connect
 
 - **GitHub:** [seelamchandini-2309](https://github.com/seelamchandini-2309)
 - **LinkedIn:** [Chandini Seelam](https://www.linkedin.com/in/chandini-seelam-535359323)
+
+---
+
+⭐ Always eager to learn, build, and grow as a Software Developer.
+
